@@ -1,4 +1,5 @@
 %% Script to show experimental results
+load('experimental_data.mat');
 
 %% Channel estimation error with SNR=5dB
 figure;
